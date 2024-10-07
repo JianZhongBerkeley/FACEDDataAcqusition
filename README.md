@@ -33,7 +33,7 @@ Cache 512E/4Kn Hard Drive
 - Connect NI DAQ devices to the host computer
 - Follow the [instructions](https://www.youtube.com/watch?v=4x_EH53hb2I) to install NI-DAQmx
 - Install SmarAct mcs2 control driver
-- Run the software installer in the [repository directory](./LabVIEWScanControl/) to install the LabVIEW software
+- Unzip and run the software installer in the [repository directory](./LabVIEWScanControl/) to install the LabVIEW software
 
 
 ## Installation guide for data acquisition software
