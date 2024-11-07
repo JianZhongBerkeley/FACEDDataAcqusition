@@ -1,6 +1,7 @@
 # FACEDDataAcqusition
 Data acquisition software for the paper entitled *FACED 2.0 enables large-scale voltage and calcium imaging in vivo*
 
+![Software Demo](./Assets/SoftwareDemo.gif)
 
 ## Citation
 Please cite the *FACED 2.0 enables large-scale voltage and calcium imaging in vivo* paper if you use the software in this repository.  
